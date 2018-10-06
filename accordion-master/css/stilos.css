@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+#container {
+  width: 30%;
+  margin: 17% auto;
+  font-family: 'PT Sans', sans-serif; }
+
+h2 {
+  text-align: center;
+  padding-bottom: 10px; }
+
+ul {
+  list-style: none; }
+  ul li {
+    background-color: #56575a;
+    padding: 2% 0 2% 0;
+    border-radius: 2px;
+    border: 1px solid #f3f3f3;
+    color: #6e6e6e; }
+    ul li:hover {
+      padding-bottom: 0; }
+    ul li span {
+      padding-left: 4%;
+      color: white; }
+
+li div {
+  border: 1px solid #f3f3f3;
+  border-top: 0;
+  color: #6e6e6e;
+  margin-top: 2%;
+  background-color: white;
+  color: #6e6e6e;
+  padding: 4%;
+  text-align: justify; }
+
+/*# sourceMappingURL=stilos.css.map */
